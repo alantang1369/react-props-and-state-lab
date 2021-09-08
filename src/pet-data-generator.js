@@ -79,7 +79,7 @@ function getRandomWeight() {
 function getRandomFromArray( arr ) {
   return arr[ Math.floor( Math.random() * arr.length ) ];
 }
-
+ 
 const AMOUNT_OF_PETS = 35;
 
 const result = [];
